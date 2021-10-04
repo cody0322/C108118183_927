@@ -35,3 +35,18 @@ The is a `HW`.
 
 - [x] todo list
 - [ ] 2nd things
+
+
+
+python code
+
+```
+s = "Python syntax highlighting"
+print s
+```
+
+javascript code
+```
+var s = "Javascript syntax highlighting"
+alert(s)
+```
