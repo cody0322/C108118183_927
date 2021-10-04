@@ -1,5 +1,5 @@
 # Gantt
 ![Gantt](HWGantt.png "甘特圖")
 
-# PERTHW
+# PERT
 ![PERT](PERTHW.png "PERT")
